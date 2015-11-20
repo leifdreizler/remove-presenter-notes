@@ -1,3 +1,8 @@
+--These resources were helpful:
+--https://gist.github.com/benwaldie/9955151
+--https://apple.stackexchange.com/questions/77389/any-way-to-delete-custom-fields-of-cards-in-contacts-app
+--Opening Script Editor, clicking File->Open Dictionary
+
 on run {input, parameters}
 	
 	-- Make sure a presentation is opened in Keynote. If not, notify the user and stop.
